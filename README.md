@@ -11,5 +11,5 @@ In order to improve the user experience of the Google search engine, the develop
 
 ### Usage
 ```
-py AutoComplete.py <files_path>
+py main.py <files_path>
 ```
