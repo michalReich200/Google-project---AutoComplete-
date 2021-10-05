@@ -8,8 +8,10 @@ In order to improve the user experience of the Google search engine, the develop
 
 
 #### **This project simulates Google's autocomplete operation.**
+The project  gives you options to complete your sentence from the exist files. 
 
 ### Usage
+
 ```
 py main.py <files_path>
 ```
